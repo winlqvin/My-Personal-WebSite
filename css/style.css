@@ -120,6 +120,10 @@ img.img-responsive {
 	font-weight: 700;
 }
 
+#cmt{
+    font-style:italic;
+    font-size:small;
+}
 
 .navbar-custom .nav li a {
     -webkit-transition: background .3s ease-in-out;
